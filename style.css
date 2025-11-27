@@ -1,0 +1,13 @@
+/*
+  These global styles were moved from the <style> block in the HTML 
+  to comply with the CodePen instruction that all CSS should be in the CSS panel.
+*/
+body {
+  background-color: #f9fafb;
+  /* bg-gray-50 */
+  color: #1f2937;
+  /* text-gray-800 */
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
